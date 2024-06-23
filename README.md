@@ -1,5 +1,3 @@
 # test
 
 hi
-
-hi
